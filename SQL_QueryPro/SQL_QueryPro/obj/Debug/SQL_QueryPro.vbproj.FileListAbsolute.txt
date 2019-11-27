@@ -1,0 +1,11 @@
+C:\Users\hp\AppData\Local\Temporary Projects\SQL_QueryPro\bin\Debug\SQL_QueryPro.exe.config
+G:\VB PROJECTS\Database Projects\SQL_QueryPro\SQL_QueryPro\bin\Debug\SQL_QueryPro.exe.config
+G:\VB PROJECTS\Database Projects\SQL_QueryPro\SQL_QueryPro\bin\Debug\SQL_QueryPro.exe
+G:\VB PROJECTS\Database Projects\SQL_QueryPro\SQL_QueryPro\bin\Debug\SQL_QueryPro.pdb
+G:\VB PROJECTS\Database Projects\SQL_QueryPro\SQL_QueryPro\bin\Debug\SQL_QueryPro.xml
+G:\VB PROJECTS\Database Projects\SQL_QueryPro\SQL_QueryPro\obj\Debug\SQL_QueryPro.Form1.resources
+G:\VB PROJECTS\Database Projects\SQL_QueryPro\SQL_QueryPro\obj\Debug\SQL_QueryPro.Resources.resources
+G:\VB PROJECTS\Database Projects\SQL_QueryPro\SQL_QueryPro\obj\Debug\SQL_QueryPro.vbproj.GenerateResource.Cache
+G:\VB PROJECTS\Database Projects\SQL_QueryPro\SQL_QueryPro\obj\Debug\SQL_QueryPro.exe
+G:\VB PROJECTS\Database Projects\SQL_QueryPro\SQL_QueryPro\obj\Debug\SQL_QueryPro.xml
+G:\VB PROJECTS\Database Projects\SQL_QueryPro\SQL_QueryPro\obj\Debug\SQL_QueryPro.pdb
